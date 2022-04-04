@@ -26,3 +26,11 @@ Case and repeat with the similar 3
 Test cases in UC 1<br>
 
 -UC 3 - E.g. Apple Peach Banana<br>
+
+# Refactor-1:<br>
+# Refactor all the 3 to One Generic Method and find the maximum<br>
+
+- Ensure the Generic Type extends
+Comparable<br>
+
+-Refactor 1 - Make the test case work<br>
