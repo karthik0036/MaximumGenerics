@@ -43,7 +43,7 @@ Comparable<br>
 - Write testMaximum method to internally call the static testMaximum method passing the 3 instance variables<br>
 - Define new test case to use the Generic Class<br>
 
-#UC-4:
+# UC-4:
 # Extend the max method to take more then three parameters
 -Use Options and Sorting<br>
 
