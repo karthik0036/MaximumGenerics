@@ -45,4 +45,7 @@ Comparable<br>
 
 #UC-4:
 # Extend the max method to take more then three parameters
--Use Options and Sorting
+-Use Options and Sorting<br>
+
+#UC-5:
+# Extend the max method to also print the max to std out using Generic Method - Write printMax Generic Method which is internally called from testMaximum<br>
