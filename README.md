@@ -11,8 +11,18 @@ and 3rd<br>
 - Use Integer Object and compareTo
 UC 1 method to test the maximum number<br>
 
-# UC-1:<br>
+# UC-2:<br>
 # Given 3 Floats find the maximum<br>
 
 - Ensure to test code with the Test Case and
 repeat with the similar 3 Test cases in UC 1<br>
+
+# UC-3:<br>
+
+# Given 3 Strings find the maximum
+
+- Ensure to test code with the Test
+Case and repeat with the similar 3
+Test cases in UC 1<br>
+
+-UC 3 - E.g. Apple Peach Banana<br>
