@@ -34,3 +34,11 @@ Test cases in UC 1<br>
 Comparable<br>
 
 -Refactor 1 - Make the test case work<br>
+
+# Refactor-2:<br>
+# Refactor to create Generic Class to take in 3 variables of Generic Type<br>
+
+- Ensure the Generic Type extends Comparable<br>
+- Write parameter constructor<br>
+- Write testMaximum method to internally call the static testMaximum method passing the 3 instance variables<br>
+- Define new test case to use the Generic Class<br>
